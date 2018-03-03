@@ -1,2 +1,4 @@
 # Customer-Segmentation-RFM-Matrix
 Customer Segmentation &amp; the RFM Matrix
+
+Customer Segmentation is the subdivision of a market into discrete customer groups that share similar purchasing characteristics. Customer Segmentation can be a powerful way of identifying unmet customer needs. Companies that identify underserved segments can then outperform the competition by developing uniquely appealing products, incentives, and services. Customer Segmentation is most effective when a company tailors offerings to segments that are the most profitable and serves them with distinct competitive advantages. This prioritization can facilitate the development of marketing campaigns and pricing strategies to extract maximum value from both high- and low-profit customers. At bottom, a company can use Customer Segmentation as the principal basis for allocating resources to product development, marketing, service, and delivery programs ...
